@@ -23,7 +23,7 @@ Fair revenue share — drivers keep more of what they earn.
 
 Transparent data on rides, payments, and ratings — all on-chain.
 
-Key Features of Web3 Ridesharing Platform
+ Features
 
 1. Decentralized Booking System
 No central authority — rides are matched using smart contracts.
