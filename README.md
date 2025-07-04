@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Hackseries-Ridesharing
+# Ridesharing
  Problem:
 Traditional ridesharing platforms (like Uber, Ola, etc.) are centralized, meaning:
 
@@ -23,6 +22,8 @@ Uses crypto wallets for login and payment — no need for banks or cards.
 Fair revenue share — drivers keep more of what they earn.
 
 Transparent data on rides, payments, and ratings — all on-chain.
+
+
 
 Community-owned: drivers and riders can get governance tokens, giving them a say in how the platform runs.
 =======
