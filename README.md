@@ -31,22 +31,32 @@ A decentralized, transparent, and community-governed ridesharing platform built 
 
 ## 🔍 Problem
 
-Traditional ridesharing platforms (Uber, Ola, etc.) suffer from:
-- High platform fees and commissions for drivers.
-- Centralized control over pricing, data, and access.
-- Lack of transparency in fare calculation and reviews.
-- No ownership or governance by the community.
+Traditional ridesharing platforms (like Uber, Ola, etc.) are centralized, meaning:
+
+They control pricing, often taking high commissions from drivers.
+
+Riders and drivers must trust a single company with sensitive data.
+
+There's no transparency in ride fares, driver ratings, or data use.
+
+Censorship or bans on users can happen without explanation.
+
+No way for drivers or users to own part of the platform they contribute to.
 
 ---
 
 ## ✅ Solution
 
-A decentralized ridesharing system powered by **smart contracts** and **crypto wallets**:
-- Peer-to-peer matching of rides and drivers.
-- Transparent, algorithm-driven fare calculation.
-- Smart contract-based payments (ETH or stablecoins).
-- Users earn governance tokens and participate in decisions.
-- No central authority — community-owned and operated.
+A decentralized ridesharing platform powered by blockchain solves these issues:
+
+Built on smart contracts to automate payments, bookings, and reviews — no middlemen.
+
+Uses crypto wallets for login and payment — no need for banks or cards.
+
+Fair revenue share — drivers keep more of what they earn.
+
+Transparent data on rides, payments, and ratings — all on-chain.
+
 
 ---
 
