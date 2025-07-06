@@ -19,7 +19,6 @@ Censorship or bans on users can happen without explanation.
 
 No way for drivers or users to own part of the platform they contribute to.
 
----
 
 ## ✅ Solution
 
