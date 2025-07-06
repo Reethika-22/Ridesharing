@@ -65,6 +65,11 @@ Transparent data on rides, payments, and ratings — all on-chain.
 Clone the repo:
 git clone https://github.com/Reethika-22/Ridesharing.git
 
+## 🙋‍♀️ Author
+👩‍💻 Ratna Reethika Arasavilli
+Lead, Algorand Blockchain Club
+📫 LinkedIn Email X
+
 ## 📦 Installation
 
 1. Clone the repository:
