@@ -52,14 +52,13 @@ Transparent data on rides, payments, and ratings — all on-chain.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js / Next.js
-- **Blockchain:** Solidity, Ethereum / Polygon
-- **Wallets:** MetaMask, WalletConnect
-- **Smart Contracts:** Hardhat / Foundry
+- **Frontend:** HTML, CSS, JS
+- **Blockchain:** Solidity
+- **Wallets:** Perawallet8, WalletConnect
+- **Smart Contracts:** PyTeal
 - **Storage:** IPFS / Filecoin
 - **Identity:** ENS / Ceramic / ZK for DID
-- **Backend (optional):** Node.js + GraphQL (for indexing or off-chain data)
-
+- **Backend (optional):** Node.js
 ---
 ## Setup Instructions
 Clone the repo:
