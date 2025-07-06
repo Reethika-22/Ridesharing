@@ -37,7 +37,7 @@ Transparent data on rides, payments, and ratings — all on-chain.
 
 ## 🚀 Features
 
-- 🔐 **Wallet-based Authentication** (MetaMask, WalletConnect)
+- 🔐 **Wallet-based Authentication** (Perawallet, WalletConnect)
 - 💸 **Smart Contract Payments** — trustless and automated
 - 🌍 **Decentralized Ride Matching**
 - 🧾 **Transparent Fare Calculation**
