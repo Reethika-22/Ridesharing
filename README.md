@@ -61,6 +61,9 @@ Transparent data on rides, payments, and ratings — all on-chain.
 - **Backend (optional):** Node.js + GraphQL (for indexing or off-chain data)
 
 ---
+## Setup Instructions
+Clone the repo:
+git clone https://github.com/Reethika-22/Ridesharing.git
 
 ## 📦 Installation
 
