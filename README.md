@@ -64,6 +64,9 @@ Transparent data on rides, payments, and ratings — all on-chain.
 Clone the repo:
 git clone https://github.com/Reethika-22/Ridesharing.git
 
+## Project prototype
+The rider or the passenger has to login with the perawallet and then they have to see the location for the ride and 
+
 ## 🙋‍♀️ Author
 👩‍💻 Ratna Reethika Arasavilli
 Lead, Algorand Blockchain Club
