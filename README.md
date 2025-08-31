@@ -65,7 +65,8 @@ Clone the repo:
 git clone https://github.com/Reethika-22/Ridesharing.git
 
 ## Project prototype
-The rider or the passenger has to login with the perawallet and then they have to see the location for the ride and 
+The rider or the passenger has to login with the perawallet and then they have to check the location for the ride and they need to book the ride.
+
 
 ## 🙋‍♀️ Author
 👩‍💻 Ratna Reethika Arasavilli
