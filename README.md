@@ -66,6 +66,7 @@ git clone https://github.com/Reethika-22/Ridesharing.git
 
 ## Project prototype
 The rider or the passenger has to login with the perawallet and then they have to check the location for the ride and they need to book the ride.
+After the completion of the ride the passengers pay will credited to the riders wallet.
 
 
 ## 🙋‍♀️ Author
