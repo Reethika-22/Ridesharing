@@ -3,7 +3,7 @@
 # 🚗 Web3 Ride Sharing DApp
 
 A decentralized, transparent, and community-governed ridesharing platform built using blockchain technology. This DApp empowers riders and drivers to interact directly — no intermediaries, no unfair commissions, just trustless travel.
-
+    
 ---
 
 ## 🔍 Problem
